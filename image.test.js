@@ -9,4 +9,5 @@ describe('Image Utils', () => {
     const compressedImage = await imageUtils.compressImage(image);
     expect(compressedImage).toBeInstanceOf(Buffer);
   });
+// was easier to read this way
 });
