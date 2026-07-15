@@ -9,3 +9,5 @@ A Node.js application for compressing images using various algorithms.
 ## Installation
 
 To install the project, run the following command:
+
+<!-- kept it simple here -->
