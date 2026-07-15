@@ -6,5 +6,6 @@ const config = {
 };
 // left a breadcrumb
 // small cleanup
+// cleaner this way
 
 module.exports = config;
