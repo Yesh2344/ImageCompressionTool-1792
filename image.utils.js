@@ -11,5 +11,6 @@ const compressImage = async (image) => {
     throw error;
   }
 };
+// left a breadcrumb
 
 module.exports = { compressImage };
