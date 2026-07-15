@@ -10,4 +10,5 @@ describe('Image Utils', () => {
     expect(compressedImage).toBeInstanceOf(Buffer);
   });
 // was easier to read this way
+// leaving a note for later
 });
