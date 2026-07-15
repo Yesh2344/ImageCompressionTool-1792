@@ -1,6 +1,7 @@
 const winston = require('winston');
 
 const logger = winston.createLogger({
+// small cleanup
   level: 'info',
   format: winston.format.json(),
   transports: [
